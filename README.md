@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanishka0306/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Kanishka0306/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/Kanishka0306/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
