@@ -49,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka0306/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanishka0306/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Kanishka0306/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -102,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
