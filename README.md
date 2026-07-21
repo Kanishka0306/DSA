@@ -50,6 +50,7 @@
 | [0001-two-sum](https://github.com/Kanishka0306/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
+| [0162-find-peak-element](https://github.com/Kanishka0306/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanishka0306/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Kanishka0306/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Kanishka0306/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/Kanishka0306/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
