@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka0306/DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/Kanishka0306/DSA/tree/master/0162-find-peak-element) |
@@ -107,10 +108,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
