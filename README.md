@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishka0306/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Kanishka0306/DSA/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/Kanishka0306/DSA/tree/master/0061-rotate-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
