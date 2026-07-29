@@ -80,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kanishka0306/DSA/tree/master/0070-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kanishka0306/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kanishka0306/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kanishka0306/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Kanishka0306/DSA/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kanishka0306/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka0306/DSA/tree/master/0001-two-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kanishka0306/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
