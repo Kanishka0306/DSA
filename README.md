@@ -105,10 +105,12 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishka0306/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Kanishka0306/DSA/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/Kanishka0306/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishka0306/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/Kanishka0306/DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
