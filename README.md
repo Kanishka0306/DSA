@@ -55,6 +55,7 @@
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/Kanishka0306/DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Kanishka0306/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Kanishka0306/DSA/tree/master/0213-house-robber-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Kanishka0306/DSA/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanishka0306/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kanishka0306/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Kanishka0306/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Kanishka0306/DSA/tree/master/0213-house-robber-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kanishka0306/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kanishka0306/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
