@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kanishka0306/DSA/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Kanishka0306/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kanishka0306/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Kanishka0306/DSA/tree/master/0733-flood-fill) |
@@ -15,6 +16,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kanishka0306/DSA/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Kanishka0306/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kanishka0306/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Kanishka0306/DSA/tree/master/0733-flood-fill) |
@@ -139,4 +141,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kanishka0306/DSA/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kanishka0306/DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kanishka0306/DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
