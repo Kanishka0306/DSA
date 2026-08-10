@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanishka0306/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kanishka0306/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Kanishka0306/DSA/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kanishka0306/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -109,6 +110,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanishka0306/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishka0306/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Kanishka0306/DSA/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanishka0306/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -118,6 +120,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanishka0306/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishka0306/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Kanishka0306/DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
