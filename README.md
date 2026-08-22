@@ -55,6 +55,7 @@
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Kanishka0306/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/Kanishka0306/DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Kanishka0306/DSA/tree/master/0198-house-robber) |
@@ -86,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kanishka0306/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Kanishka0306/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Kanishka0306/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kanishka0306/DSA/tree/master/0213-house-robber-ii) |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/Kanishka0306/DSA/tree/master/0829-consecutive-numbers-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kanishka0306/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
