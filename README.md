@@ -58,6 +58,7 @@
 | [0053-maximum-subarray](https://github.com/Kanishka0306/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/Kanishka0306/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kanishka0306/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kanishka0306/DSA/tree/master/0213-house-robber-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -151,6 +153,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka0306/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanishka0306/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
@@ -171,4 +174,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kanishka0306/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
