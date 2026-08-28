@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka0306/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Kanishka0306/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanishka0306/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -132,6 +133,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kanishka0306/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Kanishka0306/DSA/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanishka0306/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -140,6 +142,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kanishka0306/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
