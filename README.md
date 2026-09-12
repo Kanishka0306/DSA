@@ -59,6 +59,7 @@
 | [0035-search-insert-position](https://github.com/Kanishka0306/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Kanishka0306/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Kanishka0306/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Kanishka0306/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kanishka0306/DSA/tree/master/0198-house-robber) |
@@ -139,6 +140,7 @@
 | [0015-3sum](https://github.com/Kanishka0306/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Kanishka0306/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Kanishka0306/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Kanishka0306/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanishka0306/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kanishka0306/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -149,6 +151,7 @@
 | [0015-3sum](https://github.com/Kanishka0306/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kanishka0306/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Kanishka0306/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Kanishka0306/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kanishka0306/DSA/tree/master/0169-majority-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kanishka0306/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -199,4 +202,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kanishka0306/DSA/tree/master/0207-course-schedule) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kanishka0306/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kanishka0306/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
